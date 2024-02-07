@@ -32,7 +32,7 @@ const Home = async () => {
              monitoring and smart alerts
             </p>
             <Image
-                src='/assets/icons/intro.png'
+                src='/assets/icons/Intro.png'
                 alt='arrow-right'
                 width={720}
                 height={720}
